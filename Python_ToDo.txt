@@ -1,0 +1,108 @@
+Just keep in mind: good site to learn SQL-- https://www.sqltutorial.org/
+
+Loading NumPy array with data from text files
+
+Saving NumPy arrays to a text file
+
+linkedin cert. update 
+
+
+***stack overflow -- good site for job openings.
+
+Add in resume Git / GitHub
+coursera:
+IBM Data Science Professional Certificate
+Advanced Data Science with IBM Specialization
+Applied Data Science with Python Specialization
+
+x + y = 20
+-complete ASAP- http://pythongather.blogspot.com/2017/09/company-wise-python-interview-questions.html
+after that must do- https://www.geeksforgeeks.org/must-coding-questions-company-wise/
+then- https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/?ref=lbp
+then- https://www.geeksforgeeks.org/commonly-asked-algorithm-interview-questions-set-1/?ref=lbp
+also must- coursera mcq and coding questions like files, class, lambda,list compr, regex.........,
+must- https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
+> also, https://www.geeksforgeeks.org/python-multiple-choice-questions/
+then - Learn the basics of DevOps
+
+==============================================================================================================
+The below has to be done after all the above is completed but it must be done as it is equally important as above.
+** 50 more MCQ :) ==>https://app.finxter.com/learn/computer/science/
+** few more interview questions ==>https://blog.finxter.com/python-interview-questions/
+->later slowly slowly-
+  1. Learn the basic concepts of IT. Know how the things you do work. Read about data structures, algorithmics, computer networks. 
+     It will help you feel in your element.
+  
+  2. Then it’s time for frameworks—choose a popular one and focus on it. This is just to help you figure out how working with frameworks looks like. 
+     You’ll have time to master them in the future.
+  
+  3. Finally, pick a random simple library and try to use it. That will help you get a glimpse of how a developer’s everyday job looks like.
+
+  4. ***And remember—honesty is key. By all means, sell yourself, but avoid overselling. Be straightforward about your skills, expectations, and needs. 
+     This will only prove your reliability and diligence.***Try to find a common tongue with your interviewers.***
+
+  5. SQL good source to learn-> https://www.w3schools.in/mysql/ddl-dml-dcl/
+
+  6. Read it whenever u r free- https://job-interview-answers.com/
+  7. must read about Pandas: https://blog.thedataincubator.com/2017/11/excel-and-pandas/
+
+  ***8. selenium for automation/ automation testing:https://wiki.saucelabs.com/display/DOCS/Getting+Started+with+Selenium+for+Automated+Website+Testing
+  ***9. check cse syllabus for nitw and iitb for both btech and mtech, see have they studied selenium, python, SDLC, Deployment concepts and much more which 	ur aware now
+
+SQL must: https://www.indeed.com/hire/interview-questions/sql?aceid=&gclid=EAIaIQobChMIu4Plv9Cg7wIVqeHACh2SiAJ_EAAYASAAEgLoCvD_BwE
+
+Data science MS - syllabus -- work accordingly NOT randomly man paagal ho gaya hun mai but will do my work till last breath
+==============================================================================================================
+https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+
+*** check job description for Python role in employee referral programm portal (As Richa has shown us in the meeting) 
+action: share all assignments to github, sql interview questions, sql ppt and all queries practice from coursera course....
+***seems like we can move to R&D side in accenture lab as one person in linkedin has done that. what is accenture lab.explore more.....
+***what is l3,l2,l1 support engineer (it seems it applies for accenture as well and we also come under it :)).i see 'app/cloud support senior analyst role      in accenture being offered to many resources in our team. 
+***99.99% chances r there that u will be asked aptitude questions and logical reasoning like for freshers whenever u apply for any position--- confirm on this ASAP 
+*** NXGPL - python check if u can get some rewards
+*** XML spy --read must
+***BMC Software   --- for AOTS --read must
+
+
+need - oracle sql certification from oracle
+
+
+https://www.forbes.com/sites/cindygordon/2021/03/08/building-ai-leadership-brain-trust-why-is-mathematics-literacy-key-to-ai-competency-development/?sh=d07f8c81032b
+
+
+5) What is decorator? use of decorator? How you implement the decrator for argumented functions to override the behaviour.
+[https://www.geeksforgeeks.org/decorators-in-python/] -->Let’s jump to another example where we can easily find out the execution time of a function 
+ using a decorator.
+
+
+
+->linkedin profile summary- Research And Development Engineer with a demonstrated history of working in the computer software industry. Skilled 
+in C,C++, Python,Data Structures and algorithms, Html , CSS , JavaScript , Php ,Mysql. Strong engineering professional with a Bachelor in Engineering 
+focused in Information Technology from Jadavpur University, Kolkata. 
+
+->Also add Accomplishments please
+===================
+
+================================================================================
+Action items- 
+2. read about power BI
+
+
+4. LEARN HOW TO KEEP your machine clean in order to keep the speed and space of the machine the best- it will take hardly 15 minutes to understand
+
+
+9th july-
+***12 leaves going to expire on August.
+	
+================================================================================
+
+
+leave- add optional balance as well
+will check for other one more optional leave as i have total 2 leaves pending- optional one
+
+
+
+
+
+

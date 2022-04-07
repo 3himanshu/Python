@@ -1,0 +1,46 @@
+3. find the sum of sequence by skipping the between elements without using slicing.
+    Ex seq = [1, 2, 3, 4, 5, 6, 7, 8, 9] where x = 4, y = 7
+       skip elements between x and y(including x and y i,e. [4, 5, 6, 7]) always y
+       comes after x
+       output: 1+2+3+8+9 = 23
+4. File question:
+   File has following data:
+   Print the words of the file by sorting order of the corresponding integers.
+   Expected output:
+    ABC, IJK, PQR, TUV, DEF
+   =======
+   TUV
+   7
+   PQR
+   4
+   ABC
+   1
+   DEF
+   8
+   IJK
+   3
+   
+5. What is decorator? use of decorator? How you implement the decrator for argumented functions to override the behaviour.
+>6. Difference between __new__ and __init__ ??
+
+1) Addition of two binary strings a ="11" and b = "1" and output "100"
+2) Permutation of ABC
+3) Input string "aaabccdee" then output "3ab2cd2e"
+4) Validstings
+      {}
+      ({})
+      [{()}]
+
+      and invalid string
+       (}
+       {{)}
+       [{[{()})]
+	   
+9. web scraping
+10. revision 
+11. profile, resume....
+12. apply
+13. apply and learn...
+14. apply and learn...
+15. interview general questions (not technical as of now) discussed in udemy
+

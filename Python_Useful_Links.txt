@@ -1,0 +1,19 @@
+some useful sites to learn python topics / python specific topics:
+
+1. For regex- https://realpython.com/regex-python/
+
+2. regex mcq good questions but u need to dig more as proper explanations are not given
+   -> https://www.sanfoundry.com/python-questions-answers-regular-expressions/
+
+3. regex and files too many good mcq questions but u need to dig more as proper explanations are not given
+   ->https://compscibits.com/mcq-questions/Python/Regular-Expressions-and-Files
+
+4. regex good numbers of coding questions
+   -> https://www.w3resource.com/python-exercises/re/
+
+5. Must do- Oracle SQL MCQ questions:
+   -> https://www.examveda.com/sql/practice-mcq-question-on-sql-miscellaneous/?page=11
+
+6. Web scrapping video: https://youtu.be/mKxFfjNyj3c and to read: https://www.edureka.co/blog/web-scraping-with-python/
+
+7. SQL interview questions, NOT important but seems good: https://www.edureka.co/blog/interview-questions/sql-interview-questions
